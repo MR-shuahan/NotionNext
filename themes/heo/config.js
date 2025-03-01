@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
   HEO_HERO_TITLE_4: '新版正式上线',
   HEO_HERO_TITLE_5: '方舟金融数字量化工作室',
-  HEO_HERO_TITLE_LINK: 'fzszlh.vercel.app',
+  HEO_HERO_TITLE_LINK: 'https://www.fzlh.me',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
