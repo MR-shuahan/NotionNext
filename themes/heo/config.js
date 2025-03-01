@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_3: 'https://www.fzlh.me',
   HEO_HERO_TITLE_4: '新版正式上线',
   HEO_HERO_TITLE_5: '方舟金融数字量化工作室',
   HEO_HERO_TITLE_LINK: 'https://www.fzlh.me',
@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'fzszlh.vercel.app',
+  HEO_INFO_CARD_URL2: 'https://www.fzlh.me',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'fzszlh.vercel.app',
+  HEO_INFO_CARD_URL3: 'https://www.fzlh.me',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
