@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '新版正式上线',
   HEO_HERO_TITLE_5: '方舟金融数字量化工作室',
   HEO_HERO_TITLE_LINK: 'fzszlh.vercel.app',
   // 英雄区遮罩文字
