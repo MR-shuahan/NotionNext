@@ -16,7 +16,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '尘念', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '互联网金融数字量化工程师', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://notion-next-8fkx.vercel.app', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://fzlh.me', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '量化, 互联网金融,数字量化,金融', // 网站关键词 英文逗号隔开
   BLOG_FAVICON: process.env.NEXT_PUBLIC_FAVICON || '/favicon.ico', // blog favicon 配置, 默认使用 /public/favicon.ico，支持在线图片，如 https://img.imesong.com/favicon.png
   BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '', // 备案号 闽ICP备XXXXXX
@@ -65,7 +65,7 @@ const BLOG = {
     'Hi，我是一个程序员, Hi，我是一个打工人,Hi，我是一个金融量化工程师,欢迎来到我的博客🎉',
 
   // uuid重定向至 slug
-  UUID_REDIRECT: process.env.UUID_REDIRECT || false
+  UUID_REDIRECT: process.env.UUID_REDIRECT || true
 }
 
 module.exports = BLOG
